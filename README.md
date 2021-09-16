@@ -11,6 +11,19 @@
 As a Data Scientist in constant growth I combine analytical skills, ability to work in team environments, and attention to details. Having spent the last years applying Machine Learning to Federal District Environmental Sanitation Company real problems, I developed critical thinking and problem-solving skills.
 
 
+
+
+
+# Projects
+
+
+* [Deep Learning](https://github.com/lucapqg/Deep-Learning.git)
+* [Machine Learning](https://github.com/lucapqg/Machine-Learning.git)
+
+
+
+
+
 **Background in:** Python, Machine Learning.
 
 **Links:**
