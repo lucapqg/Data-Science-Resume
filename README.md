@@ -14,7 +14,7 @@ As a Data Scientist in constant growth I combine analytical skills, ability to w
 
 
 
-# Projects
+## Projects
 
 
 * [Deep Learning](https://github.com/lucapqg/Deep-Learning.git)
