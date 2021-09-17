@@ -1,8 +1,7 @@
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
-  <img src="https://assets.b9.com.br/wp-content/uploads/2014/12/erik-curta-wanders.jpg" >
-
+    <img src="http://drstc.org/wp-content/uploads/2020/05/datascience.png" >
 </p>
 # Luca Peres
 <sub>*Data Scientist*</sub>
