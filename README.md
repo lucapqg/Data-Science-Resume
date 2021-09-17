@@ -3,7 +3,9 @@
 <p align="center">
     <img src="http://drstc.org/wp-content/uploads/2020/05/datascience.png" >
 </p>
+
 # Luca Peres
+
 <sub>*Data Scientist*</sub>
 
 
