@@ -28,7 +28,8 @@ As a Data Scientist in constant growth I combine analytical skills, ability to w
 
 **Links:**
 * [LinkedIn](linkedin.com/in/luca-peres-bcc)
-
+* [Medium](https://medium.com/@lucapqg
+)
 
 
 ---
